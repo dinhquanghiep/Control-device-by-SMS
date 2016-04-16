@@ -1,0 +1,2302 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Sim",
+				"SimpleWriteln"
+			],
+			[
+				"p_cha",
+				"p_char"
+			],
+			[
+				"ret",
+				"ret_val"
+			],
+			[
+				"int",
+				"intTemp"
+			],
+			[
+				"pho",
+				"phoneNum1"
+			],
+			[
+				"phon",
+				"phoneNum2"
+			],
+			[
+				"ph",
+				"phoneNum1"
+			],
+			[
+				"aut",
+				"autoMode"
+			],
+			[
+				"max",
+				"max_sms_len"
+			],
+			[
+				"pHON",
+				"phoneNum1"
+			],
+			[
+				"te",
+				"temp"
+			],
+			[
+				"lo",
+				"long"
+			],
+			[
+				"log",
+				"LOGCAT"
+			],
+			[
+				"digit",
+				"digitalRead	Arduino digitalRead"
+			],
+			[
+				"Lo",
+				"LOGCAT"
+			],
+			[
+				"digi",
+				"digitalWrite	Arduino digitalWrite"
+			],
+			[
+				"sms",
+				"smsBuffer"
+			],
+			[
+				"device",
+				"DEVICE1"
+			],
+			[
+				"Device",
+				"DEVICE4"
+			],
+			[
+				"tat",
+				"TatHeThong"
+			],
+			[
+				"chay",
+				"chayHeThong"
+			],
+			[
+				"DEvi",
+				"DEVICE2"
+			],
+			[
+				"hi",
+				"HIGH"
+			],
+			[
+				"dEVICE",
+				"DEVICE1"
+			],
+			[
+				"hetho",
+				"chayHeThong"
+			],
+			[
+				"dig",
+				"digitalRead	Arduino digitalRead"
+			],
+			[
+				"Mo",
+				"MOTOR"
+			],
+			[
+				"PHONE",
+				"PHONENUMBER1"
+			],
+			[
+				"phone",
+				"phoneNum1"
+			],
+			[
+				"temp",
+				"temptime"
+			],
+			[
+				"pa",
+				"PASSADDRESS"
+			],
+			[
+				"cha",
+				"char"
+			],
+			[
+				"Pho",
+				"PHONENUMBER1"
+			],
+			[
+				"Pa",
+				"PASSADDRESS"
+			],
+			[
+				"P",
+				"PHONENUMBER1"
+			],
+			[
+				"k",
+				"k"
+			],
+			[
+				"EE",
+				"EEPROM"
+			],
+			[
+				"char",
+				"char	Arduino char()"
+			],
+			[
+				"Re",
+				"RestoreDataFromEEprom"
+			],
+			[
+				"di",
+				"digitalRead	Arduino digitalRead"
+			],
+			[
+				"CL",
+				"CLS_FREE	(GSM.cpp)"
+			],
+			[
+				"Dele",
+				"DeleteSMS	(sms.h)"
+			],
+			[
+				"print",
+				"println	(GSM.cpp)"
+			],
+			[
+				"DEV",
+				"DEVICE1"
+			],
+			[
+				"Int",
+				"InitSMSMemory	(GSM.cpp)"
+			],
+			[
+				"Simple",
+				"SimpleWrite	(SIM900.h)"
+			],
+			[
+				"str",
+				"str_ok"
+			],
+			[
+				"Send",
+				"SendATCmdWaitResp"
+			],
+			[
+				"Seria",
+				"Serial"
+			],
+			[
+				"retu",
+				"return"
+			],
+			[
+				"srt",
+				"str_at"
+			],
+			[
+				"Set",
+				"SetCommLineStatus"
+			],
+			[
+				"turno",
+				"turnedON"
+			],
+			[
+				"turn",
+				"turnedON"
+			],
+			[
+				"norepo",
+				"norepOK"
+			],
+			[
+				"norep",
+				"norepOK"
+			],
+			[
+				"tur",
+				"turnedON"
+			],
+			[
+				"CLS",
+				"CLS_FREE"
+			],
+			[
+				"set",
+				"setStatus"
+			],
+			[
+				"So",
+				"SoftwareSerial"
+			],
+			[
+				"re",
+				"read"
+			],
+			[
+				"buf",
+				"comm_buf"
+			],
+			[
+				"comm_",
+				"comm_buf"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"pri",
+				"println"
+			],
+			[
+				"g",
+				"GSM"
+			],
+			[
+				"func",
+				"function	(jquery-1.12.2.js)"
+			],
+			[
+				"loc",
+				"location	(jquery-1.12.2.js)"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"de",
+				"decodeuricomponent"
+			],
+			[
+				"fun",
+				"function	(jquery-1.12.2.js)"
+			],
+			[
+				"read",
+				"ready	(jquery-1.12.2.js)"
+			],
+			[
+				"font",
+				"fontawesome	(admin.css.scss)"
+			],
+			[
+				"def",
+				"default_scope	(devise.rb)"
+			],
+			[
+				"fl",
+				"false"
+			],
+			[
+				"led",
+				"leds"
+			],
+			[
+				"imp",
+				"important"
+			],
+			[
+				"current",
+				"current_order	(transaction_controller.rb)"
+			],
+			[
+				"payer",
+				"payer_id	(transaction_controller.rb)"
+			],
+			[
+				"chec",
+				"checkout"
+			],
+			[
+				"paypal",
+				"paypal_payment_id"
+			],
+			[
+				"_p",
+				"_puts_ruby	_puts_ruby"
+			],
+			[
+				"currn",
+				"current_user"
+			],
+			[
+				"curn",
+				"current_user	(application_controller.rb)"
+			],
+			[
+				"order",
+				"order"
+			],
+			[
+				"new",
+				"newest"
+			],
+			[
+				"ap",
+				"approval_url"
+			],
+			[
+				"pay",
+				"paypal_payment_id"
+			],
+			[
+				"con",
+				"country"
+			],
+			[
+				"or",
+				"order_info"
+			],
+			[
+				"input",
+				"input-text"
+			],
+			[
+				"text",
+				"text_field	(_form.html.haml)"
+			],
+			[
+				"ch",
+				"chef"
+			],
+			[
+				"_c",
+				"_database_pg_config	database"
+			],
+			[
+				"_",
+				"_import_database_pg	_import_database"
+			],
+			[
+				"va",
+				"vagrant"
+			],
+			[
+				"to",
+				"togleRed"
+			],
+			[
+				"tog",
+				"togleBlue"
+			],
+			[
+				"blue",
+				"blue_flag"
+			],
+			[
+				"pin",
+				"pulseIn	Arduino pulseIn()"
+			],
+			[
+				"l",
+				"long	Arduino long()"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"excep",
+				"except	(Ruby And Rails Note.rb)"
+			],
+			[
+				"return",
+				"return_url"
+			],
+			[
+				"check",
+				"checkout_with_paypal"
+			],
+			[
+				"num",
+				"number_to_currency"
+			],
+			[
+				"payme",
+				"payment"
+			],
+			[
+				"checkout",
+				"checkout_path	(edit.html.erb)"
+			],
+			[
+				"au",
+				"authorize_success"
+			],
+			[
+				"_b",
+				"_binding_pry	_binding"
+			],
+			[
+				"comp",
+				"Completed"
+			],
+			[
+				"descr",
+				"describe	(orders_spec.rb)"
+			],
+			[
+				"tran",
+				"transaction"
+			],
+			[
+				"transac",
+				"transaction_items"
+			],
+			[
+				"per",
+				"permalink	(package_subscription_methods.rb)"
+			],
+			[
+				"perm",
+				"permalink"
+			],
+			[
+				"permalin",
+				"permalinks	(generate.rake)"
+			],
+			[
+				"sub",
+				"subscriptions"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"li",
+				"lightbox"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"_s",
+				"_state"
+			],
+			[
+				"_con",
+				"_console_log	_console_log"
+			],
+			[
+				"cl",
+				"close"
+			],
+			[
+				"_d",
+				"_import_database_pg	_import_database"
+			],
+			[
+				"class",
+				"class	Attr"
+			],
+			[
+				"teach",
+				"teaches"
+			],
+			[
+				"teac",
+				"teacher"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Code.ino",
+			"settings":
+			{
+				"buffer_size": 11460,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "SIM900.cpp",
+			"settings":
+			{
+				"buffer_size": 26578,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "GSM.cpp",
+			"settings":
+			{
+				"buffer_size": 21644,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "GSM.h",
+			"settings":
+			{
+				"buffer_size": 8206,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 217.0,
+		"last_filter": "emove",
+		"selected_items":
+		[
+			[
+				"emove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"haml",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"vara",
+				"Vagrant: Up"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"vagra",
+				"Vagrant: Rsync"
+			],
+			[
+				"va",
+				"Vagrant: Init"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"jva",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"rou",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"ini",
+				"Set Syntax: INI"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"bread",
+				"Snippet: bs3-breadcrumbs"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"jsa",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Snippet: ",
+				"Snippet: bs3-navbar-fixed-bottom"
+			],
+			[
+				"sasss",
+				"Set Syntax: Sass"
+			],
+			[
+				"h",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"to",
+				"TortoiseSVN: Log"
+			],
+			[
+				"tortoi",
+				"TortoiseSVN: Log"
+			],
+			[
+				"tou",
+				"TortoiseSVN: Update"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"rspe",
+				"Set Syntax: RSpec"
+			],
+			[
+				"rspec",
+				"Set Syntax: RSpec"
+			],
+			[
+				"coff",
+				"Set Syntax: IcedCoffeeScript"
+			],
+			[
+				"jquery",
+				"Pretty JSON: JSON query with ./jq"
+			],
+			[
+				"SASS",
+				"Set Syntax: Sass"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"rsec",
+				"Set Syntax: reStructuredText"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL (Rails)"
+			],
+			[
+				"sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"rails",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"page",
+				"Package Control: Install Package"
+			],
+			[
+				"emme",
+				"Set Syntax: Emmet"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"pack",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"install P",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"revoe",
+				"BracketHighlighter: Remove Brackets"
+			],
+			[
+				"remv",
+				"Package Control: Remove Package"
+			],
+			[
+				"remoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"rs",
+				"Set Syntax: RSpec"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"rdoc",
+				"Set Syntax: Rd (R Documentation)"
+			],
+			[
+				"inp",
+				"Package Control: Install Package"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"ANF: Delete Current File"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"jso",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"jsav",
+				"Project: Save As"
+			],
+			[
+				"SAS",
+				"Set Syntax: Sass"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"ham",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"jsva",
+				"Project: Save As"
+			],
+			[
+				"GEM",
+				"Snippet: require_gem \"..\""
+			],
+			[
+				"jsava",
+				"Project: Save As"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"hmtl",
+				"Set Syntax: HTML"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"lisst",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 176.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Users/QuangHiep/Desktop/DKTB new/DKTB/Code"
+	],
+	"file_history":
+	[
+		"/E/Users/QuangHiep/Desktop/DKTB new/DKTB/Code/sms.cpp",
+		"/E/Users/QuangHiep/Desktop/DKTB new/DKTB/Code/gps.cpp",
+		"/E/Users/QuangHiep/Desktop/DKTB new/DKTB/Code/SIM900.cpp",
+		"/E/Users/QuangHiep/Desktop/DKTB new/DKTB/Code/GSM.h",
+		"/E/Users/QuangHiep/Desktop/DKTB new/DKTB/Code/GSM.cpp",
+		"/E/Users/QuangHiep/Desktop/DKTB new/DKTB/Code/Code.ino",
+		"/C/Users/phucph/Desktop/DKTB/DKTB/Code/GSM.cpp",
+		"/C/Users/phucph/Desktop/DKTB/DKTB/Code/sms.cpp",
+		"/C/Users/phucph/Desktop/DKTB/DKTB/Code/GSM.h",
+		"/C/Users/phucph/Desktop/HTML va Javascrip/Sublime Text 3065/Sublime Text 3065/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Users/phucph/Desktop/HTML va Javascrip/Sublime/index.html",
+		"/C/Users/phucph/Desktop/HTML va Javascrip/Sublime/js/jquery-1.12.2.js",
+		"/C/Users/phucph/Desktop/HTML va Javascrip/Sublime Text 3065/Sublime Text 3065/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/phucph/Desktop/HTML va Javascrip/Sublime Text 3065/Sublime Text 3065/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/phucph/Desktop/HTML va Javascrip/Sublime Text 3065/Sublime Text 3065/Data/Packages/User/Side Bar Folders.sublime-settings",
+		"/C/Users/phucph/Desktop/HTML va Javascrip/Sublime Text 3065/Sublime Text 3065/Data/Packages/User/HTML.sublime-settings",
+		"/C/Users/phucph/Desktop/HTML va Javascrip/js/jquery-1.12.2.js",
+		"/C/Users/phucph/Desktop/HTML va Javascrip/js/jquery-1.12.2.min.js",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/index.html",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/datatables_plugins/.bower.json",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/bootstrap-tour/build/js/bootstrap-tour.js",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/flot/.bower.json",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/jquery-flot/.bower.json",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/flot/jquery.flot.js",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/xeditable/README.md",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/xeditable/CHANGELOG.txt",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/xeditable/bootstrap3-editable/js/bootstrap-editable.js",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/sweetalert/bower.json",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/sweetalert/.bower.json",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/sparkline/index.js",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/sparkline/.bower.json",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/select2-bootstrap/select2-bootstrap.css",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/nestable/jquery.nestable.js",
+		"/Z/tony_nguyen_projects/meepmeep/vendor/assets/bower.json",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/jquery.flot.spline/.bower.json",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/jquery.flot.spline/index.js",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/jquery/.bower.json",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/flot.curvedlines/.bower.json",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/flot/package.json",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/flot/PLUGINS.md",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/flot/README.md",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/datatables_plugins/README.md",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/chartjs/.bower.json",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/chartjs/Chart.js",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/bootstrap-tour/build/css/bootstrap-tour.css",
+		"/C/Users/HiepDinh/Desktop/New folder/bower (2).json",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/bootstrap/README.md",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/bootstrap/.bower.json",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/bootstrap/bower.json",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/blueimp-gallery/bower.json",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/blueimp-gallery/.bower.json",
+		"/D/Study/Editor/Sublime Text 3065/Data/Packages/User/_asset.sublime-snippet",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/animate.css/bower.json",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/animate.css/.bower.json",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/animate.css/Gruntfile.js",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/animate.css/animate.min.css",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/animate.css/animate.css",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/animate.css/.editorconfig",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/animate.css/animate-config.json",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/animate.css/package.json",
+		"/Z/tony_nguyen_projects/meepmeep/vendor/assets/bower_components/fontawesome/css/font-awesome.min.css.erb",
+		"/Z/tony_nguyen_projects/meepmeep/app/assets/stylesheets/application.css",
+		"/Z/tony_nguyen_projects/meepmeep/config/initializers/assets.rb",
+		"/Z/tony_nguyen_projects/meepmeep/vendor/assets/bower_components/fontawesome/css/font-awesome.css",
+		"/Z/tony_nguyen_projects/meepmeep/vendor/assets/bower_components/fontawesome/css/font-awesome.css.erb",
+		"/Z/tony_nguyen_projects/meepmeep/vendor/assets/.bowerrc",
+		"/Z/tony_nguyen_projects/meepmeep/config/application.rb",
+		"/Z/tony_nguyen_projects/meepmeep/config/initializers/devise.rb",
+		"/Z/tony_nguyen_projects/meepmeep/vendor/assets/bower_components/fontawesome/scss/_core.scss",
+		"/Z/tony_nguyen_projects/meepmeep/vendor/assets/bower_components/fontawesome/scss/font-awesome.scss",
+		"/Z/tony_nguyen_projects/meepmeep/vendor/assets/bower_components/fontawesome/scss/_variables.scss",
+		"/Z/tony_nguyen_projects/meepmeep/app/assets/stylesheets/admin.css",
+		"/Z/tony_nguyen_projects/meepmeep/bower.json",
+		"/Z/tony_nguyen_projects/meepmeep/app/views/layouts/admin.html.haml",
+		"/Z/tony_nguyen_projects/meepmeep/app/assets/javascripts/admin.js",
+		"/Z/tony_nguyen_projects/meepmeep/config/database.yml",
+		"/Z/tony_nguyen_projects/meepmeep/config/initializers/bower_rails.rb",
+		"/Z/tony_nguyen_projects/meepmeep/public/assets/admin-eff1fcd9f44b53a7f3ad87ec798967be658d7030204da744283f1ca27f898894.css",
+		"/Z/tony_nguyen_projects/meepmeep/public/assets/admin-cbe4a3d4092b1c5f63fc9eaea6ab5cccbaae65fc610d454d6d7293d5a42674cb.css",
+		"/Z/tony_nguyen_projects/meepmeep/public/assets/admin-6893f2d4b3252e0863d0bc4246755bc965c428d569b27901b996946e8f491074.css",
+		"/Z/tony_nguyen_projects/meepmeep/vendor/assets/components/fontawesome/scss/_path.scss",
+		"/Z/tony_nguyen_projects/meepmeep/public/assets/admin-4df2b6173f18ea004854fe37d47ebb23882289b9af8f33a8fb66f24c2f4f6f1e.css",
+		"/Z/tony_nguyen_projects/meepmeep/vendor/assets/components/fontawesome/scss/_variables.scss",
+		"/Z/tony_nguyen_projects/meepmeep/public/assets/admin-a632f28dbf2766d865b9181b0b8e9a93718cf04e2a84cbd98a9d2fa969104f9c.css",
+		"/Z/tony_nguyen_projects/meepmeep/app/assets/stylesheets/pav_foodstore.css.sass",
+		"/Z/tony_nguyen_projects/meepmeep/app/assets/stylesheets/pav_foodstore_custom.css.sass",
+		"/Z/tony_nguyen_projects/meepmeep/.gitignore",
+		"/Z/tony_nguyen_projects/meepmeep/app/assets/javascripts/application.js",
+		"/Z/tony_nguyen_projects/meepmeep/config/boot.rb",
+		"/Z/tony_nguyen_projects/meepmeep/app/views/layouts/application.html.erb",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/forum_details.html",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/vendor/peity/.bower.json",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/api/datatables.json",
+		"/C/Users/HiepDinh/Desktop/bootstrap-theme-homer/Homer_Full_Version_HTML_JS/scripts/homer.js",
+		"/Z/tony_nguyen_projects/ats-win/app/assets/javascripts/admin.js",
+		"/Z/tony_nguyen_projects/ats-win/app/assets/javascripts/application.js",
+		"/Z/tony_nguyen_projects/meepmeep/app/assets/javascripts/plugins/loader.js",
+		"/Z/tony_nguyen_projects/ats-win/app/assets/javascripts/plugins/loader.js",
+		"/Z/tony_nguyen_projects/meepmeep/app/controllers/application_controller.rb",
+		"/Z/tony_nguyen_projects/meepmeep/config/routes.rb",
+		"/Z/tony_nguyen_projects/meepmeep/Gemfile",
+		"/Z/tony_nguyen_projects/meepmeep/app/views/admin/restaurants/index.html.haml",
+		"/Z/tony_nguyen_projects/meepmeep/app/controllers/admin_controller.rb",
+		"/Z/tony_nguyen_projects/meepmeep/app/controllers/admin/restaurants_controller.rb",
+		"/Z/tony_nguyen_projects/meepmeep/app/views/layouts/admin.html.erb",
+		"/Z/tony_nguyen_projects/meepmeep/app/views/admin",
+		"/Z/tony_nguyen_projects/meepmeep/tmp/cache/assets/development/sprockets/v3.0/_eRE6dtOcour-8DYLJVKER0aDuTr43z_xm7B1mr5u04.cache",
+		"/Z/tony_nguyen_projects/ats-win/public/demo/blue-moon/css/bootstrap-editable.css",
+		"/Z/tony_nguyen_projects/bee-studio/app/views/homepage/contacts.html.erb",
+		"/C/Users/HiepDinh/Desktop/led_move/led_move.ino",
+		"/Z/tony_nguyen_projects/bee-studio/app/assets/stylesheets/homepage/homepage.css.sass",
+		"/Z/tony_nguyen_projects/bee-studio/app/assets/stylesheets/bee-studio.css.sass",
+		"/Z/tony_nguyen_projects/bee-studio/app/assets/stylesheets/homepage/main.css.erb",
+		"/Z/tony_nguyen_projects/ats-win/app/controllers/transaction_controller.rb",
+		"/Z/tony_nguyen_projects/ats-win/config/routes.rb",
+		"/Z/tony_nguyen_projects/ats-win/app/models/order.rb",
+		"/Z/tony_nguyen_projects/ats-win/spec/factories/order_infos.rb",
+		"/Z/tony_nguyen_projects/ats-win/app/models/order_info.rb",
+		"/Z/tony_nguyen_projects/ats-win/spec/requests/checkout_paypal_spec.rb",
+		"/Z/tony_nguyen_projects/ats-win/app/models/package_subscription_methods.rb",
+		"/Z/tony_nguyen_projects/ats-win/app/helpers/application_helper.rb",
+		"/Z/tony_nguyen_projects/ats-win/app/controllers/application_controller.rb",
+		"/Z/tony_nguyen_projects/ats-win/app/views/shared/_product.html.haml",
+		"/Z/tony_nguyen_projects/ats-win/app/controllers/products_controller.rb",
+		"/Z/tony_nguyen_projects/ats-win/spec/factories/packages.rb",
+		"/Z/tony_nguyen_projects/ats-win/spec/models/broadcast_spec.rb",
+		"/Z/tony_nguyen_projects/ats-win/spec/factories/contacts.rb",
+		"/Z/tony_nguyen_projects/ats-win/db/migrate/20140504034941_create_contacts.rb"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 112.0,
+		"where_history":
+		[
+			"<project>",
+			"Y:\\ruby-1.9.3-p547\\bundler\\gems",
+			"Y:\\ruby-1.9.3-p547\\gems",
+			"Y:\\ruby-1.9.3-p547\\bundler\\gems",
+			"<project>",
+			"Z:\\tony_nguyen_projects\\tsi-mails\\spec",
+			"Z:\\tony_nguyen_projects\\bee-studio\\spec",
+			"Z:\\tony_nguyen_projects\\ats-win\\spec\\requests",
+			"Z:\\tony_nguyen_projects",
+			"D:\\Dropbox\\Study\\My Note",
+			"<project>",
+			"Y:\\bundler",
+			"Y:\\gems",
+			"Y:\\gems\\spree_backend-3.0.0.rc1",
+			"<project>",
+			"Y:\\gems\\spree_backend-3.0.0.rc1",
+			"Z:\\tony_nguyen_projects\\emall\\app",
+			"<project>",
+			"Z:\\ruby-2.0.0-p451\\gems\\devise-3.2.4",
+			"<project>",
+			"V:\\hiep-fishing-gitLab\\app\\views",
+			"<project>",
+			"Z:\\web-portal\\app",
+			"V:\\apsara_web_portal",
+			"V:\\hiep-fishing",
+			"V:\\hiep-fishing\\config",
+			"Z:\\web-portal",
+			"V:\\apsara_web_portal",
+			"C:\\wamp\\www\\sensor-monitor\\www",
+			"C:\\Sites\\apsara_web_portal",
+			"C:\\wamp\\www\\phone-reader-app\\phone-reader\\www",
+			"C:\\Sites\\apsara_web_portal\\app",
+			"C:\\Sites\\apsara_web_portal",
+			"C:\\wamp\\www\\phone-reader-app\\phone-reader\\www",
+			"Z:\\hoanghiepitvnn\\demo_view_controller\\app\\views\\devise",
+			"Z:\\hoanghiepitvnn\\demo_view_controller\\app\\assets",
+			"Z:\\hoanghiepitvnn\\web-portal"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"temptime",
+			"pass",
+			"mypass",
+			"TatHeThong",
+			"strlcpy",
+			"strlcpn",
+			"PHONENUMBER2",
+			"chayHeThong",
+			"LOGCAT",
+			"MOTOR",
+			"STATUS",
+			"flag",
+			"val",
+			"startTime",
+			"DEVICE",
+			"DKTuoi",
+			"smsnum",
+			"TATHETHONG",
+			"Phonenumber",
+			"S",
+			"Serial",
+			"serial.print",
+			"Serial.print",
+			"rx_state",
+			"se baudrate 115200 with Soft",
+			"        ",
+			"\n        ",
+			"        \n",
+			"turnedON",
+			");\n",
+			"COMM_BUF_LEN",
+			"comm_buf",
+			"QUANG",
+			"ready",
+			"\\",
+			"@{fa-version}",
+			"4.0.3",
+			"%script",
+			"script",
+			"%link",
+			"link",
+			".png",
+			"transp",
+			"application",
+			".js",
+			"js",
+			"col-lg",
+			"10",
+			"20",
+			"400",
+			"4",
+			"status",
+			"j",
+			"led",
+			"led1",
+			"#login-panel",
+			"clear_session",
+			"byebug",
+			"click_button \"loadLogin\"",
+			"loadLogin",
+			"paypal_payment_id",
+			"order",
+			"click_button \"submit\"",
+			"package",
+			"subscription_another",
+			"admin",
+			"order_with_paypal_payment_id_expired",
+			"admin",
+			"400",
+			", ",
+			":",
+			"current_order",
+			"store_authorized",
+			"store_payer_id",
+			"newest_order",
+			"paypal_payment",
+			"new_paypal_payment",
+			"last_order",
+			"newest",
+			"  scope :newest, -> { order(\"created_at DESC\") }\n",
+			"newest",
+			"oldest",
+			"o.",
+			"o",
+			"property.contract",
+			"payer_id",
+			"payment_errors",
+			"approval_url",
+			"payment_id",
+			"byebu",
+			"route",
+			"paypal_payment_id",
+			"paypal_",
+			"load_payment",
+			"load_order",
+			".validate-required",
+			"%p#",
+			"o.text_field",
+			"o",
+			"validated",
+			"billing_country",
+			"state",
+			"accepts_nested_attributes_for",
+			"*",
+			"user",
+			"status",
+			".try",
+			".truy",
+			"image",
+			"ship",
+			", \"",
+			"gem \"",
+			"\",",
+			"gem \"",
+			"#",
+			"bash",
+			"memc",
+			"nobody",
+			"bundle",
+			"sql",
+			"gem",
+			"sql",
+			"    \n",
+			"style",
+			"$('table.responsive.no-wrap >",
+			"index",
+			"'",
+			"=>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"intTemp",
+			"temp",
+			"TurnOff",
+			"autoMode",
+			"breakTime",
+			"products/product",
+			"shared/",
+			"<script type=\"text/javascript\" src=\"//wurfl.io/wurfl.js\"></script>\n<script type=\"text/javascript\" src=\"js/ga.js\"></script>",
+			"home_banners_admin_sliders_path",
+			"TopBanner",
+			"LeftTopBanner",
+			"slider",
+			"Page",
+			"page",
+			"'",
+			"href=\"#\">",
+			"href=\"#\"",
+			"",
+			">\n</",
+			"\n",
+			"Truy nguyên",
+			"\n",
+			"end",
+			"#436F87",
+			"#334D5C",
+			"#295C77",
+			"334D5C",
+			"#77A1B7",
+			"#E27A3F",
+			"#466B7F",
+			"#467087",
+			"#334D5C",
+			"#45B29D",
+			"#E27A3F\n",
+			"#334D5C\n",
+			"\n",
+			"",
+			"\n",
+			"",
+			"$('').",
+			">\n",
+			"\"",
+			"placeHolder",
+			"\"",
+			"item_code",
+			"end",
+			"",
+			"telephone",
+			"telephone\n",
+			"Xóa sản phẩm này ra khỏi đơn hàng\n",
+			"');\n",
+			"    </",
+			"\"shop_name\"",
+			"<label class=\"show\">",
+			">",
+			"\" => \"",
+			"div",
+			">\n",
+			"data_user"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "E:\\Users\\QuangHiep\\Desktop\\DKTB new\\DKTB\\Code"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Code.ino",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11460,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8923,
+								8923
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/Arduino-like IDE/Arduino.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 10402.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "SIM900.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26578,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10214,
+								10214
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 11507.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "GSM.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21644,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11152,
+								11152
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 11129.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "GSM.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5389,
+								5389
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 5,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4907.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.":
+	{
+		"height": 154.0
+	},
+	"output.Code":
+	{
+		"height": 34.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.stino_log":
+	{
+		"height": 154.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 34.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"app",
+				"config\\application.rb"
+			],
+			[
+				"appl",
+				"config\\application.rb"
+			],
+			[
+				"asset",
+				"config\\initializers\\assets.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"admin",
+				"app\\assets\\stylesheets\\admin.css"
+			],
+			[
+				"data",
+				"config\\database.yml"
+			],
+			[
+				"boot",
+				"config\\boot.rb"
+			],
+			[
+				"appli",
+				"app\\assets\\javascripts\\application.js"
+			],
+			[
+				"load",
+				"app\\assets\\javascripts\\plugins\\loader.js"
+			],
+			[
+				"route",
+				"config\\routes.rb"
+			],
+			[
+				"reout",
+				"tmp\\cache\\assets\\development\\sprockets\\v3.0\\_eRE6dtOcour-8DYLJVKER0aDuTr43z_xm7B1mr5u04.cache"
+			],
+			[
+				"methd",
+				"app\\models\\package_subscription_methods.rb"
+			],
+			[
+				"helper",
+				"app\\helpers\\application_helper.rb"
+			],
+			[
+				"method",
+				"app\\models\\package_subscription_methods.rb"
+			],
+			[
+				"pack",
+				"spec\\factories\\packages.rb"
+			],
+			[
+				"prod",
+				"app\\controllers\\products_controller.rb"
+			],
+			[
+				"_pro",
+				"app\\views\\shared\\_product.html.haml"
+			],
+			[
+				"or",
+				"app\\models\\order.rb"
+			],
+			[
+				"tran",
+				"app\\controllers\\transaction_controller.rb"
+			],
+			[
+				"order",
+				"app\\models\\order_info.rb"
+			],
+			[
+				"contact",
+				"app\\models\\contact.rb"
+			],
+			[
+				"info",
+				"db\\migrate\\20150612045129_create_order_infos.rb"
+			],
+			[
+				"user",
+				"app\\models\\user.rb"
+			],
+			[
+				"applicatio",
+				"app\\controllers\\application_controller.rb"
+			],
+			[
+				"orderspec",
+				"spec\\models\\order_spec.rb"
+			],
+			[
+				"comp",
+				"app\\views\\transaction\\completed.html.haml"
+			],
+			[
+				"orde",
+				"app\\models\\order.rb"
+			],
+			[
+				"deve",
+				"config\\environments\\development.rb"
+			],
+			[
+				"env",
+				".env"
+			],
+			[
+				"cart",
+				"app\\views\\transaction\\cart.html.haml"
+			],
+			[
+				"pay",
+				"db\\migrate\\20150612073848_change_payment_id_to_paypal_payment_id.rb"
+			],
+			[
+				"header",
+				"app\\views\\shared\\_header.html.haml"
+			],
+			[
+				"ord",
+				"app\\models\\order.rb"
+			],
+			[
+				"checkout",
+				"app\\views\\transaction\\checkout.html.haml"
+			],
+			[
+				"line",
+				"app\\models\\line_item.rb"
+			],
+			[
+				"mini",
+				"app\\views\\shared\\_mini_cart.html.haml"
+			],
+			[
+				"_product",
+				"app\\views\\shared\\_product.html.haml"
+			],
+			[
+				"application",
+				"app\\controllers\\application_controller.rb"
+			],
+			[
+				"manage",
+				"app\\models\\manager.rb"
+			],
+			[
+				"time",
+				"lib\\date_time.rb"
+			],
+			[
+				"rout",
+				"config\\routes.rb"
+			],
+			[
+				"con",
+				"config\\config.yml"
+			],
+			[
+				"dev",
+				"config\\environments\\development.rb"
+			],
+			[
+				"dat",
+				"config\\database.yml"
+			],
+			[
+				"respon",
+				"public\\ge\\css\\responsive_override.css"
+			],
+			[
+				"",
+				"public\\ge\\books.htm"
+			],
+			[
+				"resp",
+				"public\\es\\css\\responsive_override.css"
+			],
+			[
+				"res",
+				"public\\css\\responsive.css"
+			],
+			[
+				"books",
+				"public\\ge\\books.htm"
+			],
+			[
+				"vortex",
+				"public\\es\\OLD\\VORTEX HEALING_files\\VORTEX HEALING.html"
+			],
+			[
+				"re",
+				"public\\css\\responsive.css"
+			],
+			[
+				"respo",
+				"public\\css\\responsive.css"
+			],
+			[
+				"book",
+				"public\\books.htm"
+			],
+			[
+				"respone",
+				"public\\css\\responsive.css"
+			],
+			[
+				"de",
+				"lulalu\\config\\environments\\development.rb"
+			],
+			[
+				"lock",
+				"lulalu\\Gemfile.lock"
+			],
+			[
+				"head",
+				"spree-3d7e5169d61c\\core\\app\\views\\spree\\admin\\shared\\_head.html.erb"
+			],
+			[
+				"foot",
+				"app\\views\\shared\\homepage\\_footer.html.erb"
+			],
+			[
+				"pro",
+				"config\\environments\\production.rb"
+			],
+			[
+				"payl",
+				"config\\paypal.yml"
+			],
+			[
+				".yml",
+				"config\\newrelic.yml"
+			],
+			[
+				"payp",
+				"config\\paypal.yml"
+			],
+			[
+				"lula",
+				"app\\assets\\stylesheets\\admin\\lulalu.css"
+			],
+			[
+				"gene",
+				"lib\\tasks\\generate.rake"
+			],
+			[
+				"test",
+				"config\\environments\\test.rb"
+			],
+			[
+				"sub",
+				"spec\\factories\\subscriptions.rb"
+			],
+			[
+				"applicat",
+				"app\\controllers\\application_controller.rb"
+			],
+			[
+				"orrder",
+				"spec\\factories\\orders.rb"
+			],
+			[
+				"rou",
+				"config\\routes.rb"
+			],
+			[
+				"package",
+				"app\\controllers\\admin\\packages_controller.rb"
+			],
+			[
+				"packagecontrol",
+				"app\\controllers\\admin\\package_subscription_controller.rb"
+			],
+			[
+				"gen",
+				"lib\\tasks\\generate.rake"
+			],
+			[
+				"session",
+				"app\\views\\devise\\sessions\\new.html.erb"
+			],
+			[
+				"new",
+				"app\\views\\devise\\passwords\\new.html.erb"
+			],
+			[
+				"price",
+				"prices.htm"
+			],
+			[
+				"pu",
+				"publictalks.htm"
+			],
+			[
+				"sche",
+				"schedule-Spanish.html"
+			],
+			[
+				"area",
+				"area_de_estudiantes.html"
+			],
+			[
+				"200",
+				"healingstories-2007.htm"
+			],
+			[
+				"gai",
+				"gailynn_bio_sp.html"
+			],
+			[
+				"bef",
+				"guitarbefore.htm"
+			],
+			[
+				"after",
+				"guitarafter.htm"
+			],
+			[
+				"sim",
+				"simbolo_angelico.html"
+			],
+			[
+				"2010",
+				"healingstories-2010.htm"
+			],
+			[
+				"qui",
+				"quienes_somos.html"
+			],
+			[
+				"aud",
+				"audios_y_videos.html"
+			],
+			[
+				"desc",
+				"descripcion_clases.html"
+			],
+			[
+				"dru",
+				"drug-use.htm"
+			],
+			[
+				"inve",
+				"investigaciones.html"
+			],
+			[
+				"lib",
+				"libros.html"
+			],
+			[
+				"lo",
+				"lorraine_bio_sp.html"
+			],
+			[
+				"ric",
+				"ric_bio_sp.html"
+			],
+			[
+				"2006",
+				"healingstories-2006.htm"
+			],
+			[
+				"poli",
+				"Politica_drogas_clases.html"
+			],
+			[
+				"schd",
+				"schedule-argentina.htm"
+			],
+			[
+				"flu",
+				"flute.htm"
+			],
+			[
+				"2011",
+				"healingstories-2011.htm"
+			],
+			[
+				"2004",
+				"healingstories-2004.htm"
+			],
+			[
+				"contac",
+				"contacto.html"
+			],
+			[
+				"about",
+				"aboutus.html"
+			],
+			[
+				"ent",
+				"entrenamiento_basico.html"
+			],
+			[
+				"2009",
+				"healingstories-2009.htm"
+			],
+			[
+				"dep",
+				"deposit-refund.htm"
+			],
+			[
+				"ant",
+				"anthony_bio_sp.html"
+			],
+			[
+				"2008",
+				"healingstories-2008.htm"
+			],
+			[
+				"ter",
+				"terrie_bio_sp.html"
+			],
+			[
+				"ar",
+				"articulos.html"
+			],
+			[
+				"tien",
+				"tienda_vortex.html"
+			],
+			[
+				"sito",
+				"sitios_relacionados.html"
+			],
+			[
+				"his",
+				"historias.html"
+			],
+			[
+				"cha",
+				"charlas.html"
+			],
+			[
+				"code",
+				"codigo_etica.html"
+			],
+			[
+				"mar",
+				"marcela_bio_sp.html"
+			],
+			[
+				"mas",
+				"mas_info.html"
+			],
+			[
+				"pract",
+				"practicantes_certificados.html"
+			],
+			[
+				"2005",
+				"healingstories-2005.htm"
+			],
+			[
+				"dr",
+				"draco.htm"
+			],
+			[
+				"che",
+				"scheduleprices.htm"
+			],
+			[
+				"fil",
+				"filosofia.html"
+			],
+			[
+				"table",
+				"table_links.rb"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"tem",
+				"template.htm"
+			],
+			[
+				"ress",
+				"css\\responsive_override.css"
+			],
+			[
+				"pub",
+				"publictalks.htm"
+			],
+			[
+				"pr",
+				"prices2014.html"
+			],
+			[
+				"prices",
+				"prices.htm"
+			],
+			[
+				"healing",
+				"healingstories-2007.htm"
+			],
+			[
+				"guite",
+				"guitarbefore.htm"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\study\\Editor\\Project\\Sensor-app.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
