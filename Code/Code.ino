@@ -7,6 +7,7 @@
 	
 	//Define pin
 	const char DEVICE[8] = {13, 12, 11, 10, 9, 8, 7, 6};
+	const char STATUS = 5;
 	const char PASSADDRESS = 0;		//1-10char and #
 	const char TIMETBADDRESS = 11; //4char 
 	const char PHONENUMBER1 = 15;	//13for each phone number and #
@@ -35,6 +36,8 @@ void InitPIN(){
 		digitalWrite(DEVICE[i], HIGH);
 	}
 	pinMode(A0, INPUT_PULLUP);
+	pinMode(STATUS, OUTPUT);
+	digitalWrite(STATUS, HIGH);
 }
 
 void ClearBuffer(){
@@ -135,6 +138,7 @@ void TurnOff(){
 	for(int i=1; i<5; i++){
 		digitalWrite(DEVICE[i], HIGH);
 	}
+	digitalWrite(STATUS, HIGH);
 }
 
 char kttk(char *phoneNum){
@@ -353,6 +357,7 @@ void loop() {
 	//Contorl autoMode or manualMode
 	do{
 		if (autoMode){
+			digitalWrite(STATUS, !digitalRead(STATUS));
 			if (digitalRead(DEVICE[0])==HIGH){
 				sms.SendSMS(phoneNum1, "Bat dau tuoi tu dong");
 				digitalWrite(DEVICE[1], LOW);
@@ -388,6 +393,7 @@ void loop() {
 			if (!strncmp(val, "0000", 4)){
 				if (digitalRead(DEVICE[0])==LOW) TurnOff();
 			}else{
+				digitalWrite(STATUS, LOW);
 				for (int i=0; i<4; i++){
 					if (val[i]=='1'){
 						digitalWrite(DEVICE[i+1], LOW);
