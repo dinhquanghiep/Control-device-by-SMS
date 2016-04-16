@@ -34,6 +34,7 @@ void InitPIN(){
 		pinMode(DEVICE[i], OUTPUT);
 		digitalWrite(DEVICE[i], HIGH);
 	}
+	pinMode(A0, INPUT_PULLUP);
 }
 
 void ClearBuffer(){
@@ -349,7 +350,7 @@ void loop() {
 	//Wait for SMS and read SMS
 	char c=NULL;
 	int smsPosition=0;
-	// Serial.println("Khoi tao thanh cong");
+	//Contorl autoMode or manualMode
 	do{
 		if (autoMode){
 			if (digitalRead(DEVICE[0])==HIGH){
@@ -404,7 +405,14 @@ void loop() {
 
 		}
 		delay(100);
-
+		//Check the master reset button press
+		if (digitalRead(A0)==LOW){
+			delay(30);
+			if (digitalRead(A0)==LOW){
+				while (digitalRead(A0)==LOW);
+				MasterReset();
+			}
+		}
 		smsPosition = sms.IsSMSPresent(SMS_ALL);
 	} while (smsPosition<1);
 	sms.GetSMS(smsPosition, smsNum, 20, smsBuffer, 160);
